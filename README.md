@@ -14,5 +14,7 @@ Note : However, SH1106 driver don't provide several functions such as scroll com
 Adafruit-GFX-Library https://github.com/adafruit/Adafruit-GFX-Library
 
 For example: Coming soon...
+
 Facebook : https://facebook.com/giolangle
+
 YouTube Channel : https://youtube.com/c/18DecorWorkshop
